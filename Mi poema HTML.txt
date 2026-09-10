@@ -1,0 +1,51 @@
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Poema en HTML</title>
+</head>
+<body>
+
+    <h1>La Belleza de la Naturaleza</h1>
+
+    <p>
+        El sol despierta con su luz dorada,<br>
+        pintando el cielo de brillante color.<br>
+        Las flores abren su hermosa mirada,<br>
+        llenando el campo de perfume y amor.
+    </p>
+
+    <p>
+        El río canta con suave armonía,<br>
+        mientras las aves comienzan a volar.<br>
+        La brisa trae paz y alegría,<br>
+        invitando al mundo a soñar.
+    </p>
+
+    <p>
+        Los árboles bailan con el viento,<br>
+        regalando sombra al caminar.<br>
+        Cada hoja cuenta un bello cuento,<br>
+        que la naturaleza quiere narrar.
+    </p>
+
+    <p>
+        Al caer la tarde el cielo se ilumina,<br>
+        con tonos naranjas de gran esplendor.<br>
+        La luna aparece y el día termina,<br>
+        dejando en la noche calma y amor.
+    </p>
+
+    <p>
+        Cuidemos siempre nuestro planeta,<br>
+        con respeto, cariño y unión.<br>
+        Porque la Tierra es la casa perfecta,<br>
+        que vive por siempre en el corazón.
+    </p>
+
+</body>
+</html>
+```
+
+
